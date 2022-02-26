@@ -8,7 +8,7 @@ In the first deliverable we are collected temperature data for the month of June
 
 In deliverable 2 we collected tempertature data for the month of December
 
-![Code1](Resources/June_Temps.png)
+![Code1](Resources/December_Temps.png)
 
 1. If we look at max temps for June they are at 85 degrees and when comparing them to max temp of 83 degrees for the month Decmeber we can tell that they very close. 
 
