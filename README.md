@@ -23,4 +23,4 @@ As we look at the data between the two months is very clear that our bussniess c
 
 The average rain fall for the month of June is 0.13 while the average for December is 0.21. This information helps support rest of our data that will be presented to the investors.   
 
-![Code1](Resources/June_prcp.png)
+![Code1](Resources/Dec_prcp.png)
